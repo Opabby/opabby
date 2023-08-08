@@ -1,8 +1,6 @@
 ### Hello, I'm Thaís Rodeiro! 👋
 
-- 🔭 I’m currently working on improving my abilities as a Frontend developer and entering the world of web3 development. 
-- 🌱 I’m currently learning JS, React, and Solidity.
-- ⚡ Fun fact: I speak 4 languages and can make jokes in any one of them 😝
+- 🔭 I’m currently working on improving my abilities as a Frontend developer.
 
 
 <div>
