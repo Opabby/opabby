@@ -5,7 +5,7 @@
 
 <div>
   <a href="https://github.com/Opabby">
-  <img height="180em" src="https://github-readme-stats-mu-self-61.vercel.app/api?username=Opabby&show_privates=true&show_icons=true&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats-mu-self-61.vercel.app/api?username=Opabby&show_private=true&show_icons=true&theme=cobalt"/>
   <img height="180em" src="https://github-readme-stats-mu-self-61.vercel.app/api/top-langs/?username=Opabby&layout=compact&theme=cobalt"/>
 </div>
 <!--<div style="diplay: inline_block"><br>
