@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/Opabby">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Opabby&show_privates=true&show_icons=true&theme=cobalt"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Opabby&layout=compact&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats-mu-self-61.vercel.app/api?username=Opabby&show_privates=true&show_icons=true&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats-mu-self-61.vercel.app/api/top-langs/?username=Opabby&layout=compact&theme=cobalt"/>
 </div>
 <!--<div style="diplay: inline_block"><br>
   <img align="center" alt="Thais-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
