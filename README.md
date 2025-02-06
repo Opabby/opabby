@@ -1,6 +1,6 @@
 ### Hello, I'm Thaís Rodeiro! 👋
 
-- 🔭 I’m currently working on improving my abilities as a Frontend developer.
+- 🔭 I’m currently working on improving my abilities as a Fullstack developer.
 
 <!--<div style="diplay: inline_block"><br>
   <img align="center" alt="Thais-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
